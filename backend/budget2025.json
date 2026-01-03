@@ -1,0 +1,24 @@
+{
+  "year": 2025,
+  "taxRevenue": {
+    "Income Tax": 1438000,
+    "Corporate Tax": 1082000,
+    "GST": 1178000,
+    "Excise Duty": 317000,
+    "Customs Duty": 240000
+  },
+  "expenditure": {
+    "Interest Payments": 1276338,
+    "Defence": 680000,
+    "Education": 128650,
+    "Healthcare": 98311,
+    "Infrastructure": 548649
+  },
+  "govOfficialNotes": [
+    {
+      "title": "uwueiwjeo3eoe",
+      "state": "iejruijeroiei",
+      "description": "eurijuriowjerwlek"
+    }
+  ]
+}
